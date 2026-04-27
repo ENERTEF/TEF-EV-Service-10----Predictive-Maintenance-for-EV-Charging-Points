@@ -276,7 +276,7 @@ Each service output includes:
 
 ## 6.1 Deliverable Reports
 
-### 1️⃣ Pre-Service Deliverable – Service Design & Setup Report
+### Pre-Service Deliverable – Service Design & Setup Report
 
 Will include:
 
@@ -291,7 +291,7 @@ Will include:
 
 ---
 
-### 2️⃣ Intermediate Deliverable – Interim Performance & Operations Report
+### Intermediate Deliverable – Interim Performance & Operations Report
 
 Will include:
 
@@ -304,7 +304,7 @@ Will include:
 
 ---
 
-### 3️⃣ Final Deliverable – Final Evaluation & Recommendations Report
+### Final Deliverable – Final Evaluation & Recommendations Report
 
 Will include:
 
